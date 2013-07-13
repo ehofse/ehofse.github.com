@@ -44,8 +44,8 @@ table {
 
 /* ============ RESET DONE ============ */
 
-.active {
-    background-color: red;
+#menu > li.active > a {
+    color: #8888bb;
 }
 
 body {
