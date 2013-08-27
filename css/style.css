@@ -82,6 +82,13 @@ body p {
     line-height: 1.3em;
 }
 
+b {
+    font-weight: bold;
+}
+i {
+    font-style: italic;
+}
+
 #header_wrapper {
     background-color: orange;
     background-color: #666699;
