@@ -258,8 +258,7 @@ i {
 
 .prisforslag {
     text-align: left;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
+    font-size: 14px;
 }
 
 .pristitlar {
