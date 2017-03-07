@@ -259,6 +259,9 @@ i {
 .prisforslag {
     text-align: left;
     border: 1px #666 solid;
+}
+.prisforslag tr {
+    border: 1px #666 solid;
     padding: 10px;
 }
 
