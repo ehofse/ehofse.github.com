@@ -264,6 +264,7 @@ i {
 
 .pristitlar {
     background-color: #666699;
+    border: 1px #fff solid;
     color: #fff;
     text-align: center; 
 }
