@@ -258,9 +258,11 @@ i {
 
 .prisforslag {
     text-align: left;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
 }
 
-.prisforlsag tr:first-child {
+.pristitlar {
     background-color: #666699;
     color: #fff;
 }
