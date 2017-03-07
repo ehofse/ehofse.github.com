@@ -256,6 +256,16 @@ i {
     color: #888;
 }
 
+.prisforslag {
+    text-align: left;
+    border: 1px #666 solid;
+    padding: 10px;
+}
+
+.prisforslag strong {
+    font-weight: 700;
+}
+
 @media screen and (max-width: 960px) {
     #header,
     #menu,
