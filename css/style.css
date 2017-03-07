@@ -261,7 +261,7 @@ i {
     border: 1px #666 solid;
 }
 
-.prisforlsag thead {
+.prisforlsag tr:first-child {
     background-color: #666699;
     color: #fff;
 }
