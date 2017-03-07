@@ -260,9 +260,16 @@ i {
     text-align: left;
     border: 1px #666 solid;
 }
+
+.prisforlsag thead {
+    background-color: #666699;
+    color: #fff;
+}
+
 .prisforslag tr, th {
     border: 1px #666 solid;
     padding: 10px;
+    vertical-align: middle;
 }
 
 .prisforslag strong {
