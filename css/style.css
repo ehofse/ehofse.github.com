@@ -265,10 +265,12 @@ i {
 .pristitlar {
     background-color: #666699;
     color: #fff;
+    text-align: center; 
 }
 
 .prisforslag tr, th {
-    border: 1px #666 solid;
+    background-color: #dadada;
+    border: 1px #fff solid;
     padding: 10px;
     vertical-align: middle;
 }
