@@ -269,8 +269,6 @@ i {
 }
 
 .prisforslag tr, th {
-    background-color: #dadada;
-    border: 1px #fff solid;
     padding: 10px;
     vertical-align: middle;
 }
