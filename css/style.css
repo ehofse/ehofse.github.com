@@ -260,7 +260,7 @@ i {
     text-align: left;
     border: 1px #666 solid;
 }
-.prisforslag tr {
+.prisforslag tr, th {
     border: 1px #666 solid;
     padding: 10px;
 }
