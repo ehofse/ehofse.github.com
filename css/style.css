@@ -257,7 +257,6 @@ i {
 }
 
 .prisforslag {
-    text-align: left;
     font-size: 14px;
     line-height: initial;
 }
@@ -272,6 +271,7 @@ i {
 .prisforslag tr, th {
     padding: 10px;
     vertical-align: middle;
+    text-align: center;
 }
 
 .prisforslag strong {
